@@ -1,0 +1,4 @@
+Proyek UAS_A_SALAM BE
+
+Link Dataset : https://drive.google.com/drive/folders/1xaaxqtvgs9s2_HZyWF8dHJMLSEgLXjQ9?usp=drive_link
+Link Proyek (Dataset, Code, Model, History, Gambar Tes) : https://drive.google.com/drive/folders/1YdHbgrtEPI9QYvIK4NyvG4vGRXryor1Y?usp=drive_link
